@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: serif;
+    border: none;
+    font-size: 10px;
+    color: black;
+    text-transform: capitalize;
+}
+#layout{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto 30px 30px;
+    grid-template-areas: 
+    "nav  nav"
+    "aside aside"
+    "footer footer";
+    height: 100vh;
+}
+header, aside,nav,footer,section{
+    display:flex;
+}
+header{
+    text-transform: capitalize;
+}
+header>h2 {
+    font-size: 100px;
+    text-transform: uppercase;
+    margin-right: 25rem;
+}
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 10px;
+    
+}
+.img1 {
+    height: 221px;
+    transform: rotate(-17deg);
+    right: 6px;
+}
+.img2{
+    height: 221px;
+    transform: rotate(-10deg);
+    left: -29px;
+    top: 36px;
+    filter: brightness(50%);
+}
+
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    list-style-position: inside;
+    list-style-type: disclosure-closed;
+    gap: 27px;
+    animation: marquee 10s linear infinite;
+    font-size: larger;
+    /* font-size: 14px; */
+}
+@keyframes marquee {
+    from{
+     transform: translateX(70%);
+    }
+    to{
+        transform: translateX(-70%);
+    }
+}
+
+aside{
+    grid-area: aside;
+    /* background-color: blue; */
+    margin-bottom: 5px;
+    overflow-x: hidden;
+}
+footer{
+    grid-area: footer;
+    /* background-color: red; */
+    overflow-x: hidden;
+}
+nav{
+    grid-area: nav;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 43px;
+        margin-bottom: 50px;
+        background-image: url(https://img.freepik.com/premium-photo/texture-craft-black-white-paper-background-half-two-colors-macro-structure-vintage-dense-cardboard_113767-5708.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+}

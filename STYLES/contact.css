@@ -1,0 +1,79 @@
+.c-contact { 
+    height: auto;
+    padding: 4rem;
+}
+.c-contact-container{
+    width: 75vw;
+}
+.c-contactinfo {
+   background-color: rgba(58, 8, 8, .8);
+    flex: 1;
+    width: 100%;
+}
+.c-contactinfo h2 {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 500;
+}
+.c-info li {
+    list-style: none;
+    cursor: pointer;
+}
+.c-socials li {
+    list-style: none;
+}
+.c-contact-form {
+    flex: 2;
+}
+.c-formbox {
+    flex-wrap: wrap;
+}
+.c-inputbox input,
+.c-inputbox textarea {
+    width: 100%;
+    resize: none;
+    padding: 0.5rem 0;
+    font-size: 1rem;
+    font-weight: 300;
+    color: #333;
+    border: none;
+    outline: none;
+    border-bottom: 0.1rem solid #777;
+}
+.c-inputbox textarea {
+    height: 5rem;
+}
+.c-inputbox span {
+    padding: 0.5rem 0;
+    pointer-events: none;
+    font-size: 1rem;
+    font-weight: 300;
+    transition: 0.3s;
+}
+.c-inputbox input:valid ~ span,
+.c-inputbox textarea:focus ~ span {
+    transform: translateY(-2rem);
+    font-size: 0.8rem;
+    font-weight: 400;
+    letter-spacing: 0.1rem;
+    color: rgba(58, 8, 8, .8);
+    font-weight: 500;
+}
+.c-inputbox button {
+    background: rgba(58, 8, 8, .8);
+    color: #fff;
+}
+.c-inputbox button:hover {
+    background-color: #3e3e3e;
+}
+@media screen and (max-width: 575px){
+    .c-contact{
+        height: auto;
+    }
+    .c-contact-container{
+
+        flex-direction: column;
+    }
+
+}
+

@@ -1,0 +1,109 @@
+
+/* .product-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 20px;
+} */
+.product-main{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.filters-p{
+    position: sticky;
+   height: 160vh;
+    background-color: #ffffffcc;
+    /* padding: 1rem; */
+    
+
+}
+.product {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.product img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    
+}
+
+.product h2 {
+    margin-top: 0;
+}
+
+.product p {
+    margin-bottom: 10px;
+}
+
+.product button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.head-img{
+    height: 350px;
+    background-image: url(https://fanimation.com/wp-content/uploads/2019/12/subpage-header-8-wrap.jpg);
+    background-repeat: no-repeat;
+    background-position: center center; 
+    /* background-attachment: fixed; */
+    background-size: cover;
+ }
+
+.img-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+    font-family: serif;
+    font-weight: 300;
+    padding-top: 5rem;
+    color: #ffffff;
+}
+
+.vertical-line{
+    margin-left: 10rem;
+    height: 100px;
+    width: 2px;
+    background-color: #E7E7E7;
+   
+}
+
+.line{
+    width: 161.5px;
+}
+
+@media screen and (max-width: 685px){
+    .product-list{
+        justify-content: center !important;
+    }
+    .product-fan{ 
+        padding: 1rem;
+        max-width: 15rem;
+    }
+    }
+    
+    .category{
+        margin-top: 2rem ;
+    }
+    
+    .list{
+        list-style: none;
+        line-height: 2;
+    }
+    
+    .price-list, .brands-list, .type-list, .category-list, .color-list{
+        margin: 1rem;
+    }

@@ -1,0 +1,776 @@
+[
+    {
+        "product_id": "500",
+        "product_name": "klout",
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "remote-controlled fan",
+        "product_price": "$128.00",
+        "product_ description": "Dry Rated, 12 Sweep Blades Included, (5) 6W LED Bulbs Included, Remote Control Included",
+        "product_image": "https://fanimation.com/wp-content/uploads/2021/03/FP3070BS-1.jpg",
+        "product_available": "5"
+    },
+    
+    {
+        "product_id": " 499",
+        "product_name": "Edgewood® 52", 
+        "product_brand": "Hunter",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Energy-efficient",
+        "product_price": "$220.00",
+        "product_ description": "Wet Rated 52, Sweep Blades Included, Pull Chain",
+        "product_image": "https://fanimation.com/wp-content/uploads/2021/03/FP9052MWW-1.jpg",
+        "product_available": "3"
+    },
+    
+    {
+        "product_id": "498",
+        "product_name": "Spitfire DC 64", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Standard fan",
+        "product_price": "$5,000k",
+        "product_ description": "Motor only, Light Kit Sold Separately, Blades Sold Separately, Remote control included",
+        "product_image":"https://fanimation.com/wp-content/uploads/2022/01/MAD6721BN_64BN_360.gif",
+        "product_available": "2"
+    },
+    
+    {
+        "product_id": "497",
+        "product_name": "PCDC™", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "decorative fan",
+        "product_price": "$6500K",
+        "product_ description": "Wet Rated, 52″ Sweep Blades included, Pull Chain",
+        "product_image": "https://fanimation.com/wp-content/uploads/2022/01/FPD7617SLW.jpg",
+        "product_available": "3"
+    },
+    
+    {
+        "product_id": "496",
+        "product_name":"Spitfire DC 72", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Standard fan",
+        "product_price": "$330k",
+        "product_ description": "Motor only, Light Kit Sold Separately, Blades Sold Separately, Remote control included",
+        "product_image": "https://fanimation.com/wp-content/uploads/2022/01/MAD6721BGR672072WK-LK.jpg"
+    },
+    
+    {
+        "product_id": "495",
+        "product_name": "Pyramid™", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Standard fan",
+        "product_price": "$42k",
+        "product_ description": "Damp Rated, 52″ Sweep Blades Included, 18W LED Bulb Included, Remote Control Included",
+        "product_image":"https://fanimation.com/wp-content/uploads/2023/01/FP8406BL.jpg",
+        "product_available":"3"
+    },
+    
+    {
+        "product_id": "494",
+        "product_name": "TriAire™ Custom 44″ Marine Grade", 
+        "product_brand": "Hunter",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Energy-efficient",
+        "product_price": "$65.00k",
+        "product_ description": " Motor Only, Blades, Light & Accessories sold separatelyThe TriAire Custom Marine Grade by Fanimation fits any style in any location.  With eight different blade sweeps, you can create the TriAire Custom that fits your space.  This 3 blade set is available in Black, Dark Walnut, Matte White, Silver and Weathered Wood finishes.  *Wet Rated for indoor and outdoor use.",
+        "product_image":"https://fanimation.com/wp-content/uploads/2021/04/MAD8514MWW-44MWW-CAP.jpg",
+        "product_available":"4"
+    },
+    
+    {
+        "product_id": "493",
+        "product_name": "EightyFour", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "decorative fan",
+        "product_price": "$870",
+        "product_ description": "variable speed DC with reverse switch on remote, Indoor/Outdoor,84 sweep blade black fan, Grey blades for brushed nickel fan,Matte white blades for matte white fan",
+        "product_image": "https://fanimation.com/wp-content/uploads/2023/01/eightyfourhero.jpg",
+        "product_available":"5"
+    },
+    
+    {
+        "product_id":"492",
+        "product_name": "AireFlush", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Standard fan",
+        "product_price": "$563k",
+        "product_ description": "variable speed DC with reverse switch on remote, Indoor/Outdoor,52 sweep blades,Black blades for black fan,Grey blades for brushed nickel fan,Matte white blades for matte white fan",
+        "product_image": "https://fanimation.com/wp-content/uploads/2023/01/LP6804LMW.jpg",
+        "product_available":"4"
+    },
+    
+    {
+        "product_id":"491",
+        "product_name": "Yardley", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Standard fan",
+        "product_price": "$503k",
+        "product_ description": "variable speed DC with reverse switch on remote, Indoor/Outdoor,64 sweep blades Light oak blades for aged bronze fan Black blades for black fan",
+        "product_image": "https://fanimation.com/wp-content/uploads/2023/01/LP6821LAZ.jpg",
+        "product_available":"4"
+    },
+    
+    {
+        "product_id":"490",
+        "product_name": "Prop™ 52", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Standard fan",
+        "product_price": "$310k",
+        "product_ description": "variable speed DC with reverse switch on remote, Indoor/Outdoor,52 sweep blades Black blades for black fan Grey blades for the brushed nickel fan Matte white blades for the brushed satin brass fan",
+        "product_image": "hhttps://fanimation.com/wp-content/uploads/2023/01/LP8333LBS.jpg",
+        "product_available":"3"
+    },
+    
+    {
+        "product_id":"489",
+        "product_name": "Radius", 
+        "product_brand": "Hunter",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Standard fan",
+        "product_price": "$120k",
+        "product_ description": "variable speed DC with reverse switch on remote, Indoor/Outdoor,60 sweep blades Bourbon wood blades for aged bronze fan Gray blades for brushed nickel fan",
+        "product_image": "https://fanimation.com/wp-content/uploads/2023/01/LP7614LAZ.jpg",
+        "product_available":"4"
+    },
+    
+    {
+        "product_id":"488",
+        "product_name": "Kwint", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Standard fan",
+        "product_price": "$250k",
+        "product_ description": "variable speed DC with reverse switch on remote, Indoor/Outdoor,52 sweep blades Black blades for black fan Gray blades for brushed nickel fan",
+        "product_image": "https://fanimation.com/wp-content/uploads/2023/01/LP6834LBN.jpg",
+        "product_available":"2"
+    },
+    
+    {
+        "product_id":"487",
+        "product_name": "Amped", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Standard fan",
+        "product_price": "$170k",
+        "product_ description": " Dry Rated, 52 Sweep Blades Included, 18W LED Bulb Included, Remote Control Included The Amped Ceiling Fan by Fanimation does indeed bring intensity to a room. This fan features 5 blades with a 52 inch blade span and an 18 watt LED Light Kit. The fan finish options available include Black, Black with Brushed Satin Brass, Brushed Nickel, Matte White, and Matte White with Brass.",
+        "product_image": "https://fanimation.com/wp-content/uploads/2022/08/FP7634BLBS_FX.jpg",
+        "product_available":"4"
+    },
+    
+    {
+        "product_id":"486",
+        "product_name": "Kute5™", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Standard fan",
+        "product_price": "$325k",
+        "product_ description": " Damp Rated, 52″ Sweep Blades Included, Light Kit Sold Separately (LK8534**)Remote Control Included.",
+        "product_image": "https://fanimation.com/wp-content/uploads/2022/01/FPD5534BN-NEW.jpg",
+        "product_available":"3"
+    },
+    
+    {
+        "product_id":"485",
+        "product_name": "Klinch 52", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Energy-efficient",
+        "product_price": "$405k",
+        "product_ description": " Damp Rated, 52″ Sweep Blades Included, 18W LED Light Kit Included, Remote Control Included. The Klinch Ceiling Fan by Fanimation demands your attention with it’s simple yet transitional style. Available in a 44 or 52 inch blade span with LED Light Kit. The Klinch is available in Black, Brushed Nickel and Matte White..",
+        "product_image": "https://fanimation.com/wp-content/uploads/2022/01/FPS7679MW.jpg",
+        "product_available":"2"
+    },
+    
+    {
+        "product_id":"484",
+        "product_name": "Archive 18", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Energy-efficient",
+        "product_price": "$660k",
+        "product_ description": " 3-speed AC with reverse switch on fan, Indoor/outdoor, 12 sweep blades Black blades for black finish Gray blades for brushed nickel finish Weathered wood blades for matte greige finish",
+        "product_image": "https://fanimation.com/wp-content/uploads/2022/09/LP3071BL.jpg",
+        "product_available":"3"
+    },
+    
+    {
+        "product_id":"483",
+        "product_name": "Florid", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "decorative fan",
+        "product_price": "$210k",
+        "product_ description": " 3-speed AC with reverse switch on fan, Indoor/outdoor, 60 sweep blades Dark walnut blades for aged bronze finish Weathered wood blades for matte greige finish",
+        "product_image": "https://fanimation.com/wp-content/uploads/2022/09/LP8300LAZ.jpg",
+        "product_available":"4"
+    },
+    
+    {
+        "product_id":"482",
+        "product_name": "Navy", 
+        "product_brand": "fanimation",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Standard fan",
+        "product_price": "$415k",
+        "product_ description": "3-speed AC with reverse switch on fan, Indoor only, 52 sweep blades Gray blades for brushed nickel finish Matte white blades for matte white finish",
+        "product_image": "https://fanimation.com/wp-content/uploads/2022/09/LP7678LBN.jpg",
+        "product_available":"4"
+    },
+    
+    {
+        "product_id":"481",
+        "product_name": "Kerring", 
+        "product_brand": "Orient Electric",
+        "product_category": "ceiling fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Standard fan",
+        "product_price": "$100k",
+        "product_ description": "Dry Rated, 14″ Sweep Blades Included, (10) 3.8W LED Bulbs Included, Remote Control Included, 3-speed AC with reverse switch on fan, Indoor only, 14 sweep clear blades.",
+        "product_image": "https://fanimation.com/wp-content/uploads/2021/03/FP3073BS-1.jpg",
+        "product_available":"3"
+    },
+    
+    {
+        "product_id":"100",
+        "product_name": "CLOSE TO CEILING KIT", 
+        "product_brand": "fanimation",
+        "product_category": " ACCESSORIES",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$78",
+        "product_type": "Standard fan",
+        "product_ description": "Weight: 3 oz, Dimensions: 8.15 × 8.15 × 5.83 in, Accessory finish: Aged bronze, Antique brass, Black, Bronze accent, Brushed nickel, Chrome, Dark bronze, Galvanized, Matte white, Oil-rubbed bronze, Pewter, Polished nickel, Rust, Satin nickel, Tortoise shell, White",
+        "product_image": "https://fanimation.com/wp-content/uploads/catalog/product/cck8002bl.jpg",
+        "product_available":"4"
+    },
+    
+    
+    {
+        "product_id":"99",
+        "product_name": "Spitfire™ Close to Ceiling Kit", 
+        "product_brand": "Hunter",
+        "product_category": " ACCESSORIES",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$110",
+        "product_type": "Standard fan",
+        "product_ description": "Spitfire™ only close to ceiling kit, 9.5″ overall distance from ceiling to blades",
+        "product_image": "https://fanimation.com/wp-content/uploads/2020/02/CCK6721BL.jpg",
+        "product_available":"3"
+    },
+    
+    {
+        "product_id":"98",
+        "product_name": "Kute™ Close to Ceiling Kit", 
+        "product_brand": "fanimation",
+        "product_category": " ACCESSORIES",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$95",
+        "product_type": "Standard fan",
+        "product_ description": "SKute™ only close to ceiling kit",
+        "product_image": "https://fanimation.com/wp-content/uploads/2022/02/CCK8534BN.jpg",
+        "product_available":"4"
+    },
+    
+    {
+        "product_id":"97",
+        "product_name": "SLOPED CEILING KIT – DAMP", 
+        "product_brand": "fanimation",
+        "product_category": " ACCESSORIES",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$52",
+        "product_type": "Standard fan",
+        "product_ description": "Aged bronze, Black, Brushed nickel, Brushed satin brass, Driftwood, Matte greige, Matte white, Oil-rubbed bronze, Tortoise shell, White",
+        "product_image": "https://fanimation.com/wp-content/uploads/catalog/product/sck152_sloped_ceiling_kit.jpg",
+        "product_available":"3"
+    },
+    
+    {
+        "product_id":"96",
+        "product_name": "WET CLOSE TO CEILING KIT", 
+        "product_brand": "Orient Electric",
+        "product_category": " ACCESSORIES",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$86",
+        "product_type": "Standard fan",
+        "product_ description": "Wet close to ceiling kit, Aged bronze, Antique brass, Black, Brushed nickel, Brushed satin brass, Dark bronze, Dark copper penny, Driftwood, Matte greige, Matte white, Oil-rubbed bronze, Pewter, Rust, Satin nickel, Textured black, Tortoise shell, White",
+        "product_image": "https://fanimation.com/wp-content/uploads/catalog/product/cck8002sl.jpg",
+        "product_available":"1"
+    },
+    
+    {
+        "product_id":"95",
+        "product_name": "DOWNROD COUPLER (1 INCH]",
+        "product_brand": "fanimation",
+        "product_category": " ACCESSORIES",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$32",
+        "product_type": "Standard fan",
+        "product_ description": "1″ diameter downrod coupler, Joins two downrods together for extended lengths, Due to the nature of the materials and the hand-crafted process, finish color, texture and shading will vary",
+        "product_image": "https://fanimation.com/wp-content/uploads/catalog/product/obdownrodcoupler.jpg",
+        "product_available":"6"
+    },
+    
+    {
+        "product_id":"94",
+        "product_name": "EXTENSION POLE COUPLER", 
+        "product_brand": "fanimation",
+        "product_category": " ACCESSORIES",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$55",
+        "product_type": "Standard fan",
+        "product_ description": "1 1/2″ diameter extension pole coupler, Joins two downrods together for extended lengths, Due to the nature of the materials and the hand-crafted process, finish color, texture and shading will vary",
+        "product_image": "https://fanimation.com/wp-content/uploads/catalog/product/epcprs_1.jpg",
+        "product_available":"4"
+    },
+    
+    {
+        "product_id":"93",
+        "product_name": "PALISADE ACCESSORY: MONKEY", 
+        "product_brand": "fanimation",
+        "product_category": " ACCESSORIES",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$89",
+        "product_ description": "Palisade monkey accessory, Weight: 5.0000 oz",
+        "product_image": "https://fanimation.com/wp-content/uploads/2016/01/monkey.jpg",
+        "product_available":"1"
+    },
+    
+    {
+        "product_id":"92",
+        "product_name": "FILIGREE SET", 
+        "product_brand": "fanimation",
+        "product_category": " ACCESSORIES",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$64",
+        "product_ description": "Filigree set, Variety of finish options, Oil-rubbed bronze, Pewter, Rust",
+        "product_image": "https://fanimation.com/wp-content/uploads/catalog/product/flrsfiligree.jpg",
+        "product_available":"1"
+    },
+    
+    {
+        "product_id":"91",
+        "product_name": "Showroom Collection Stainless Steel Downrods (Wet Rated]",
+        "product_brand": "fanimation",
+        "product_category": " ACCESSORIES",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$103",
+        "product_ description": "Available in 12″, 18″, 24″, 36″, 48″, 60″ and 72″,DR1SS-(inches)(finish), Example:  DR1SS-18BN",
+        "product_image": "https://fanimation.com/wp-content/uploads/catalog/product/dr1gr_14_1.jpg",
+        "product_available":"2"
+    },
+    
+    {
+        "product_id":"90",
+        "product_name": "Studio Collection Threaded Downrods", 
+        "product_brand": "fanimation",
+        "product_category": " ACCESSORIES",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$200",
+        "product_ description": "Downrods for Fanimation Studio Collection fans only. Available in 12″, 18″, 24″, 36″, 48″, 60″ and 72″",
+        "product_image": "https://fanimation.com/wp-content/uploads/catalog/product/drtbn.jpg",
+        "product_available":"4"
+    },
+    
+    {
+        "product_id":"89",
+        "product_name": "WR502WH Wall Remote Control", 
+        "product_brand": "fanimation",
+        "product_category": " ACCESSORIES",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$40",
+        "product_ description": "Fan and uplight/downlight wall remote control,3 fan speeds,Receiver included,2-wire hardwire installation Control on/off rocker switch5 dip switch, Support for up to 4 fans on the same circuit",
+        "product_image": "https://fanimation.com/wp-content/uploads/catalog/product/wr502wh.jpg",
+        "product_available":"2"
+    },
+    
+    {
+        "product_id":"809",
+        "product_name": "Spacetek 24 Inch Industrial Heavy Duty Exhaust Fan", 
+        "product_brand": "fanimation",
+        "product_category": " EXHAUST FANS",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$125.00",
+        "product_ description": "Spacetek heavy duty extractor fan 1 phase is design to fit and beutify the house.Corrosion less Body, Noise Less Operation & Maintenance Free Design has made spacetek one of the leading Brand in Industrial Exhaust Fans.Axial Air Flow with Aerodynamic Design & TEFC continuously rates motors with Ball Bearing Support gives Powerful Performance round the clock in commercial Set-up. Our commitment to quality at economical Rates had made millions of Industries to provide comfortable environment to their Employees.Capacity: 700Watts.",
+        "product_image": "https://fanimation.com/wp-content/uploads/catalog/product/wr502wh.jpg",
+        "product_available":"2"
+    },
+    
+    {
+        "product_id":"808",
+        "product_name": "Hlinks Exhaust Fan For Home Ceiling Mount - 10", 
+        "product_brand": "fanimation",
+        "product_category": " EXHAUST FANS",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$26.99",
+        "product_ description": "-Fresh air brings healthy life.-High-grade panel, moisture-proof rust, durable., -Ideal for basement, kitchen, bathroom, toilet, etc.-Grille type panel, strong wind pressure, high efficiency., -Back hollow design, effective cooling, fast speed, ultra-quiet.,-Retardant ABS material, not easy to deformation, long life., -Easy connection of the fan, without the need of its disassembling., -It can exhaust the exhaust air, damp air, the steam and the smoke in the room,houses, shops, hotels, restaurants etc.This exhaust fan effectively controls the quality of air in an enclosed kitchen space or bathroom by getting rid of moisture, smoke, fumes and bad odour. The automatic back shutter operation and strong, rust-proof body makes this window ventilating fan the very best in its category and ensures that you don’t have to worry about changing it for a long time. ",
+        "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/I/X/73704_1565049684.jpg",
+        "product_available":"3"
+    },
+    
+    {
+        "product_id":"807",
+        "product_name": "Exhaust Fan - 14", 
+        "product_brand": "fanimation",
+        "product_category": " EXHAUST FANS",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$70.00",
+        "product_ description": "-14 Inch Exhaust Fan Industrial Ventilation Extractor Metal Axial Exhaust Commercial Air Blower Fan Low Noise Material: Metal body and blades Heavy Duty Industrial Ventilating Extractor fan., . Easy installation for inlet and outlet you only need to swap the neutral wire so rather than extracting it will blow the air In., High-performance extractor fans are designed for use in all commercial places and are suitable for all types of workshops, restaurants, and large and medium-sized warehouses., Color:Black, White,Size:  14 inches, Voltage: 220V Frequency: 50Hz Speed: 2800r/minAxial fan with grill Powder-coated steel wire safety guard Square design Durable Copper winding motor Low Noise Metal body and blades Low noise and stable running.",
+        "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/O/M/212531_1676969386.jpg",
+        "product_available":"2"
+    },
+    
+    {
+        "product_id":"806",
+        "product_name": "Exhaust Fan Air Extractor And Ventilation Fan Ceiling Mount Pop 6 Inches", 
+        "product_brand": "fanimation",
+        "product_category": " EXHAUST FANS",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$17.99",
+        "product_ description": "8 inches ceilig mount exhaust fan for you.Air quality is something that we generally take for granted. But did you know that indoor air often contains a range of pollutants, allergens, moisture, and dust? To combat these airborne pollutants, exhaust fans are often used as means of ventilation.",
+        "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/Y/Q/73704_1593007480.jpg",
+        "product_available":"3"
+    },
+    
+    {
+        "product_id":"805",
+        "product_name": "Hornet Air Extractor & Ventilator Fan for Kitchen and Bathroom - 6 inches", 
+        "product_brand": "Orient Electric",
+        "product_category": " EXHAUST FANS",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$19,999",
+        "product_ description": "Uses Hornet Extractor Fan,Odor Control,Humidity Reduction,Fumes Safety Air Purification,Gas extraction.",
+        "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/A/i/Air-Extractor-Ventilator-Fan-for-Kitchen-and-Bathroom---6-inches-8041602.jpg",
+        "product_available":"2"
+    },
+    
+    
+    {
+        "product_id":"804",
+        "product_name": "FC Ceiling Mount Extractor Fan For Kitchen - 10", 
+        "product_brand": "fanimation",
+        "product_category": " EXHAUST FANS",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$24,96",
+        "product_ description": "Ventilation fan 10 inches. Exhaust fan, Air Extractor Fan, Ceiling Mount POP, 10 inches ceilig mount exhaust fan for you. Air quality is something that we generally take for granted. But did you know that indoor air often contains a range of pollutants, allergens, moisture, and dust? To combat these airborne pollutants, exhaust fans are often used as means of ventilation.",
+        "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/A/i/Air-Extractor-Ventilator-Fan-for-Kitchen-and-Bathroom---6-inches-8041602.jpg",
+        "product_available":"1"
+    },
+    
+    {
+        "product_id":"803",
+        "product_name": "Wall Mount Exhaust/Extractor Fan - Plastic Type - 12", 
+        "product_brand": "fanimation",
+        "product_category": " EXHAUST FANS",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$29.00",
+        "product_ description": "Good quality, Easy to maintain, • Easy Installation, • Thermal Safety Fuse.,•Excellent Exhaust performance,• Powerful, Efficient and Durable Condenser Motor.OVIDA TMTCapacity: 38W",
+        "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/W/a/Wall-Mount-Exhaust-Extractor-Fan---Plastic-Type---12--5748058.jpg",
+        "product_available":"1"
+    },
+    
+    {
+        "product_id":"802",
+        "product_name": "Panasonic 10 Wall Mount Ventilating Fan - Fv-25auf1", 
+        "product_brand": "fanimation",
+        "product_category": " EXHAUST FANS",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$75,000",
+        "product_ description": "-High efficiency,-simple structure,-movable,-easy to operate and maintain.",
+        "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/1/0/10-Wall-Mount-Ventilating-Fan---Fv-25auf1-7120748.jpg",
+        "product_available":"1"
+    },
+    
+    {
+        "product_id":"801",
+        "product_name": "Axial Flow Fan - 8", 
+        "product_brand": "fanimation",
+        "product_category": " EXHAUST FANS",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$115,000",
+        "product_ description": "Robust design,Require less maintenance,Optimum functionality,Corrosion resistant,Less Maintenance and noise.",
+        "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/A/x/Axial-Flow-Fan---8--7485040.jpg",
+        "product_available":"1"
+    },
+    
+    {
+        "product_id":"800",
+        "product_name": "Duct Axial Fan 19", 
+        "product_brand": "fanimation",
+        "product_category": " EXHAUST FANS",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_price": "$95,000",
+        "product_ description": "Robust design,Require less maintenance,Optimum functionality.",
+        "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/D/u/Duct-Axial-Fan-19--7407865.jpg",
+        "product_available":"1"
+    },
+    
+    {
+    "product_id":"700",
+    "product_name": "Lontor Rechargeable Wall Fan - 16 Inches-ctl-cf015", 
+    "product_brand": "fanimation",
+    "product_category": " WALL FANS",
+    "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+    "product_price": "$37,900",
+    "product_ description": "up to 18hours operating time remote control, bright led light,AC/DC power option 3 speed control,16inches fan size,2 pcs 6v batteries, over charge and over discharge protection.",
+    "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/V/Q/178411_1612638916.jpg",
+    "product_available":"5"
+    },
+    
+    {
+    "product_id":"701",
+    "product_name": "Rechargeable Solar Table Fan Km-f0226", 
+    "product_brand": "fanimation",
+    "product_category": " WALL FANS",
+    "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+    "product_price": "$37,900",
+    "product_ description": "usolar fan is solar-powered, which makes the sun's energy work in your favor during the hot season to keep your family cool and comfortable, day and night., SF 21 is a 14-inch Solar Fan that comes with a dedicated 16 Watt Solar panel, in-built LED bedside light, cooling timer, 5 air-cool fan blades and 6 speed modes to guarantee optimal cooling requirements for everyone especially children., With up to 18 hours of comfort in a single charge, it  guarantees your comfort while you study, work or sleep anytime, anywhere., SF21 can last for up to 18 hours, enough to get a good night's sleep., High-speed with oscillation - The fan's high speed along with its wide-angle oscillation allows multiple users to stay comfortable at the same time.,Backup lighting - The in-built LED bedside light gives hours of brightness, so you don't need a separate light point while you work, eat or study.",
+    "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/O/X/179258_1674168031.jpg",
+    "product_available":"3"
+    },
+    
+    {
+    "product_id":"702",
+    "product_name": "QASA 18 Wall Fan", 
+    "product_brand": "fanimation",
+    "product_category": " WALL FANS",
+    "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+    "product_price": "$18.00",
+    "product_ description": "Low power consumption, Value for money,Very Durable, QASA Oscillating Wall Mount Fans are ideal for workshops, health clubs, stores, classrooms, offices and other areas where there is limited floor or table space., The motor is 3-speed, permanently lubricated with a permanent split capacitor., Controls are front mounted - rotary and pull cord switch., Metal front grill with impact resistant plastic rear grill and chemical resistant polypropylene blade. Oscillation is 90 degrees and can be locked in non-oscillating position.",
+    "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/D/P/182703_1652881794.jpg",
+    "product_available":"2"
+    },
+    
+    {
+    "product_id":"703",
+    "product_name": "Century Orbit Fan -fa 401", 
+    "product_brand": "fanimation",
+    "product_category": " WALL FANS",
+    "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+    "product_price": "$28.00",
+    "product_ description": "The Century Orbit Fan-FA 401,frees up valuable floor space while combating heat and stagnant air in indoor gardens. With three breeze setting capabilities, this fan adarpts to gardeners advanced requirements for air circulation.the fan features a; Orbit Fan FA- 401 is a 3 Speed Control Automatic Oscillation fan, Product Title: Orbit FA- 401, Product Type: Orbit Fan, power: 230V 50Hz",
+    "product_image": "https://www-konga-com-res.cloudinary.com/w_700,f_auto,fl_lossy,dpr_2.0,q_auto/media/catalog/product/X/Z/196037_1642270831.jpg",
+    "product_available":"3"
+    },
+    
+    {
+    "product_id":"704",
+    "product_name": "Ox Industrial Wall Fan - 18 Inches", 
+    "product_brand": "fanimation",
+    "product_category": " WALL FANS",
+    "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+    "product_price": "$49.500",
+    "product_ description": "OX industrial wall fan 18 Inches is used in churches, restaurants, cinemas and such other places including schools and homes it has a soothing breeze during heat and works perfectly in crowded places it comes with aerodynamics blade so that it will dish out very pool breeze, it is strong and capable to work for a long hours non stop it is also perfectly suited for wedding hall",
+    "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/I/n/Industrial-Wall-Fan---18-Inches-8077061.jpg",
+    "product_available":"2"
+    },
+    
+    {
+    "product_id":"705",
+    "product_name": "Century 16 Wall Fan - Fs 40nd", 
+    "product_brand": "fanimation",
+    "product_category": " WALL FANS",
+    "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+    "product_price": "$19.00",
+    "product_ description": "230V, 50Hz,3 Step Speed Control,Automatic Oscillation,Extra Low Noise Motor,Extra Durable Motor,Easy to assemble",
+    "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/L/B/86527_1548883152.jpg",
+    "product_available":"3"
+    },
+    
+    
+    {
+    "product_id":"706",
+    "product_name": "Binatone 18 Inches Aluminum Blade Orbit Fan Obf-1801- Black", 
+    "product_brand": "Hunter",
+    "product_category": " WALL FANS",
+    "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+    "product_price": "$31.200",
+    "product_ description": "Energy Saving DC Motor,360 Degrees Rotation, High-efficiency blade, This fan can work from 100 to 260V, Silent Operation, Stepless Speed COntrol (Min-Max),Perfect for home, offices and shops,Power 35W, AC 230V 50Hz",
+    "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/H/P/_1684415370.jpg",
+    "product_available":"2"
+    },
+    
+    {
+    "product_id":"707",
+    "product_name": "QASA Orbit Fan", 
+    "product_brand": "fanimation",
+    "product_category": " WALL FANS",
+    "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+    "product_price": "$15.800",
+    "product_ description": "Power input: 50±5W,Rated current: 0.22A,Rotation speed: 1300±50rpm(max.),Size of blade: 380mm±3%,Number of speed: 3",
+    "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/V/S/182703_1652882078.jpg",
+    "product_available":"2"
+    },
+    
+    
+    {
+    "product_id":"708",
+    "product_name": "Gdtimes Rechargeable Table Fan 12 With Dc Bulbs+ Solar Panel", 
+    "product_brand": "Orient Electric",
+    "product_category": " WALL FANS",
+    "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+    "product_price": "$23.00",
+    "product_ description": "Strong wind blow,Durable,Long-lasting for 5hrs,LED Lamp,Inbuilt Lithium battery- 4.5AH,12Inch blade,2 DC bulbs,It has a USB port for mobile phone charge,Charges on Solar panels and PHCN,Comes with a solar panel",
+    "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/N/A/71418_1688900827.jpg",
+    "product_available":"2"
+    },
+    
+    {
+    "product_id":"709",
+    "product_name": "Sun King Solar Powered Fan", 
+    "product_brand": "fanimation",
+    "product_category": " WALL FANS",
+    "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+    "product_price": "$52.00",
+    "product_ description": "Battery 5100 Mah, 11.1 V solar Panel 20w, 16v Polycrystalline Pet Laminated Solar Panel With 6 Meter Wire solar Charge Indicator Digital Led Meter Displays Charging Input Power Level On A Scale Of 1 To 4 runtime Turbo Mode: 9 Hours Normal Mode: 14 Hours Low Mode: 18 Hours motor Brushless Long-Life Motor Technology fan Size 14 Inches In Diameter",
+    "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/Q/B/143798_1614442572.jpg",
+    "product_available":"2"
+    },
+    
+    {
+    "product_id":"10900",
+    "product_name": "Kamisafe Rechargeable Speed Table Fan- 16 Inches", 
+    "product_brand": "Hunter",
+    "product_category": " WALL FANS",
+    "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+    "product_price": "$37.00",
+    "product_ description": "The Kamisafe 12-inch Rechargeable High Speed AC/DC Fan prove to be a great pick for the ones that are looking for a model that has great performance and a great design., On a full charge, it is estimated to run for about 10 hours which is more than impressive. When the batteries run out it can be powered using a USB cable. In terms of design, the fan has an appealing look. It can be a great accessory for someone that spends a lot of time in front of a computer and gets sweaty hands, this includes gamers or people that have a regular office job.,The fan blades are well made and optimized to push as much air as possible. It can be used almost anywhere. The lightweight design with high air flow output make this a practical and convenient addition when traveling, boating, camping or enjoying other recreational activities.  ",
+    "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/Q/M/160594_1582982593.jpg",
+    "product_available":"3"
+    },
+    {
+    "product_id": " 2000",
+    "product_name": "Edgewood® 52", 
+    "product_brand": "Hunter",
+    "product_category": "pedestal fan",
+    "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+    "product_type": "Standard fan",
+    "product_price": "$220.00",
+    "product_ description": "Wet Rated 52, Sweep Blades Included, Pull Chain",
+    "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/P/H/_1655388186.jpg",
+    "product_availability": "9"
+    },
+
+    {
+        "product_id": " 2001",
+        "product_name": "Edgewood® 52", 
+        "product_brand": "Hunter",
+        "product_category": "pedestal fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Energy-efficient",
+        "product_price": "$1020.00",
+        "product_ description": "Wet Rated 52, Sweep Blades Included, Pull Chain",
+        "product_image": "https://www-konga-com-res.cloudinary.com/w_400,f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/C/H/168883_1624232503.jpg",
+        "product_availability": "32"
+    },
+
+    {
+        "product_id": " 2002",
+        "product_name": "Edgewood® 52", 
+        "product_brand": "Hunter",
+        "product_category": "pedestal fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Energy-efficient",
+        "product_price": "$220.00",
+        "product_ description": "Wet Rated 52, Sweep Blades Included, Pull Chain",
+        "product_image": "https://uandu.com.ng/wp-content/uploads/2022/06/KGjtI65C7o8V6m19MSlwCrOKqbZ0Tix2L7TSZC3y.jpg",
+        "product_availability": "24"
+    },
+
+    {
+        "product_id": " 2003",
+        "product_name": "Edgewood® 52", 
+        "product_brand": "Hunter",
+        "product_category": "pedestal fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Energy-efficient",
+        "product_price": "$220.00",
+        "product_ description": "Wet Rated 52, Sweep Blades Included, Pull Chain",
+        "product_image": "https://uandu.com.ng/wp-content/uploads/2022/06/KGjtI65C7o8V6m19MSlwCrOKqbZ0Tix2L7TSZC3y.jpg",
+        "product_availability": "13"
+    },
+
+    {
+        "product_id": " 2004",
+        "product_name": "Edgewood® 52", 
+        "product_brand": "Hunter",
+        "product_category": "pedestal fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Energy-efficient",
+        "product_price": "$220.00",
+        "product_ description": "Wet Rated 52, Sweep Blades Included, Pull Chain",
+        "product_image": "https://m.media-amazon.com/images/I/51FQ+XuEMcL.jpg",
+        "product_availability": "44"
+    },
+
+    {
+        "product_id": " 2005",
+        "product_name": "Ox Industrial Standing Fan - 18 Inches", 
+        "product_brand": "Ox",
+        "product_category": "pedestal fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Energy-efficient",
+        "product_price": "$950.00",
+        "product_ description": "Wet Rated 52, Sweep Blades Included, Pull Chain",
+        "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/G/K/197312_1647720693.jpg",
+        "product_availability": "20"
+    },
+    
+    {
+        "product_id": " 2006",
+        "product_name": "Binatone 16in. Standing Fan (vs-1657)", 
+        "product_brand": "Binatone",
+        "product_category": "pedestal fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Energy-efficient",
+        "product_price": "$330.00",
+        "product_ description": "Wet Rated 52, Sweep Blades Included, Pull Chain",
+        "product_image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/J/J/_1655388218.jpg",
+        "product_availability": "3"
+    },
+    {
+        "product_id": " 2007",
+        "product_name": "Table And Pedestal Fan -48W", 
+        "product_brand": "Orient Electric",
+        "product_category": "pedestal fan",
+        "colours_available": ["https://fanimation.com/wp-content/uploads/2019/12/BL.jpg", "https://fanimation.com/wp-content/uploads/2019/12/ BN.jpg", "https://fanimation.com/wp-content/uploads/2019/12/BS.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/DF.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg", "https://fanimation.com/wp-content/uploads/2019/12/GR.jpg", "https://fanimation.com/wp-content/uploads/2019/12/MW.jpg"],
+        "product_type": "Standard fan",
+        "product_price": "$500.00",
+        "product_ description": "Wet Rated 52, Sweep Blades Included, Pull Chain",
+        "product_image": "https://www-konga-com-res.cloudinary.com/w_400,f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/O/K/197384_1654709736.jpg",
+        "product_availability": "11"
+     }
+    
+    
+    ]
+    
+    
+    
+    
+    

@@ -1,0 +1,295 @@
+<div class="all-products" >
+    <div class="head-img">
+        <p class="img-text text-center">FANIMATION PRODUCTS</p>
+    </div>
+
+    <div class="product-main p-5">
+
+        <div class="filters-p p-5 shadow-lg">
+            <h3 class="category">CATERGORY</h3>
+            <ul class="list category-list">
+              <li> <input class="ceiling-checkbox" type="checkbox" name="ceiling" id="ceiling"> <label for="">Ceiling Fan</label></li>
+                <li><input type="checkbox" name="wall" id="wall"> <label for="wall">Wall Fans</label></li>
+                <li><input type="checkbox" name="exhaust" id="exhaust"> <label for="exhaust">Exhaust Fan</label></li>
+                <li><input type="checkbox" name="pedestal" id="pedestal"> <label for="pedestal">Pedestal Fan</label></li>
+            </ul>
+
+            <hr>
+
+            <h3 class="brands">BRANDS</h3>
+            <ul class="list brands-list">
+              <li> <input class="ceiling-checkbox" type="checkbox" name="ceiling" id="ceiling"> <label for="">Ceiling Fan</label></li>
+                <li><input type="checkbox" name="wall" id="wall"> <label for="wall">Wall Fans</label></li>
+                <li><input type="checkbox" name="exhaust" id="exhaust"> <label for="exhaust">Exhaust Fan</label></li>
+                <li><input type="checkbox" name="pedestal" id="pedestal"> <label for="pedestal">Pedestal Fan</label></li>
+            </ul>
+
+            <hr>
+
+            <h3 class="type">TYPE</h3>
+            <ul class="list type-list">
+              <li> 
+                <input class="ceiling-checkbox" type="checkbox" name="ceiling" id="ceiling"> 
+                <label for="">Ceiling Fan</label>
+            </li>
+                <li>
+                    <input type="checkbox" name="wall" id="wall"> 
+                    <label for="wall">Wall Fans</label>
+                </li>
+                <li>
+                    <input type="checkbox" name="exhaust" id="exhaust"> 
+                    <label for="exhaust">Exhaust Fan</label>
+                </li>
+                <li>
+                    <input type="checkbox" name="pedestal" id="pedestal"> 
+                    <label for="pedestal">Pedestal Fan</label>
+                </li>
+            </ul>
+            
+            <hr>
+
+            <h3 class="color">COLOR</h3>
+            <ul class="list color-list">
+              <li> 
+                <input class="ceiling-checkbox" type="checkbox" name="ceiling" id="ceiling"> 
+                <label for=""><img src="https://fanimation.com/wp-content/uploads/2019/12/BL.jpg" alt=""></label>
+            </li>
+                <li>
+                    <input type="checkbox" name="wall" id="wall"> 
+                    <label for="wall"><img src="https://fanimation.com/wp-content/uploads/2019/12/BN.jpg" alt=""></label>
+                </li>
+
+                <li>
+                    <input type="checkbox" name="exhaust" id="exhaust"> 
+                    <label for="exhaust"><img src="https://fanimation.com/wp-content/uploads/2019/12/BS.jpg" alt=""></label>
+                </li>
+
+                <li>
+                    <input type="checkbox" name="pedestal" id="pedestal"> 
+                    <label for="pedestal"><img src="https://fanimation.com/wp-content/uploads/2019/12/DZ.jpg" alt=""></label>
+                </li>
+
+                <li>
+                    <input type="checkbox" name="pedestal" id="pedestal"> 
+                    <label for="pedestal"><img src="https://fanimation.com/wp-content/uploads/2019/12/DF.jpg" alt=""></label>
+                </li>
+
+                <li>
+                    <input type="checkbox" name="pedestal" id="pedestal"> 
+                    <label for="pedestal"><img src="https://fanimation.com/wp-content/uploads/2019/12/GZ.jpg" alt=""></label>
+                </li>
+            </ul>
+
+            <hr>
+
+            <h3 class="price">PRICE</h3>
+            <ul class="list price-list">
+              <li> 
+                <input class="ceiling-checkbox" type="checkbox" name="ceiling" id="ceiling"> 
+                <label for="">Ceiling Fan</label>
+            </li>
+
+                <li>
+                    <input type="checkbox" name="wall" id="wall"> 
+                    <label for="wall">Wall Fans</label>
+                </li>
+
+                <li>
+                    <input type="checkbox" name="exhaust" id="exhaust"> 
+                    <label for="exhaust">Exhaust Fan</label>
+                </li>
+
+                <li>
+                    <input type="checkbox" name="pedestal" id="pedestal"> 
+                    <label for="pedestal">Pedestal Fan</label>
+                </li>
+            </ul>
+        </div>
+        
+        <div class="product-list d-flex justify-content-evenly flex-wrap " >
+
+                <div class="fans product-fan position-relative m-3 shadow" ng-repeat="product in products track by $index" >
+                            <img class="pedestal-fans" src={{product.product_image}} alt="Product 1">
+                            <p>{{product.product_name}}</p>
+                            <div class="buttons position-absolute">
+                                <button data-aos="fade-left" data-aos-once="true" title="Add to Wishlist"  ng-class="addWishlist ? 'wished' : 'buttons-button shadow'" ng-click="addWishlist = !addWishlist" >
+                                    <i class="fas fa-heart"></i>
+                                    </button>
+                                    
+                                <button class="quick-view shadow buttons-button" title="Quick View" ng-click="toggleBlockDescription(product.product_id)">
+                                    <i class="fas fa-info-circle"></i>
+                                    </button>
+                                    
+                            </div>
+                </div>
+
+                <!-- <div class="fans product-fan position-relative m-3" >
+                <img class="pedestal-fans" src="https://www-konga-com-res.cloudinary.com/w_400,f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/J/R/168883_1624230926.jpg" alt="Product 1">
+                <p>BPEX 07 400MM PEDESTAL FAN</p>
+                <div class="buttons position-absolute">
+                    <button class="wish-list shadow" data-aos="fade-left" data-aos-once="true" title="Add to Wishlist">
+                        <i class="fas fa-heart"></i>
+                        </button>
+                        
+                        <button class="quick-view shadow" title="Quick View" ng-click="toggleBlockDescription()">
+                        <i class="fas fa-info-circle"></i>
+                        </button>
+                        
+                </div>
+            </div>
+
+            <div class="fans product-fan position-relative m-3" >
+                <img class="pedestal-fans" src="https://www-konga-com-res.cloudinary.com/w_400,f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/J/R/168883_1624230926.jpg" alt="Product 1">
+                <p>BPEX 07 400MM PEDESTAL FAN</p>
+                <div class="buttons position-absolute">
+                    <button class="wish-list shadow" data-aos="fade-left" data-aos-once="true" title="Add to Wishlist">
+                        <i class="fas fa-heart"></i>
+                        </button>
+                        
+                        <button class="quick-view shadow" title="Quick View" ng-click="toggleBlockDescription()">
+                        <i class="fas fa-info-circle"></i>
+                        </button>
+                        
+                </div>
+            </div>
+            
+            <div class="fans product-fan position-relative m-3" >
+                <img class="pedestal-fans" src="https://fanimation.com/wp-content/uploads/2022/01/MAD6721DZ-96N-LKFresnel-1024x576.jpg" alt="Product 1">
+                <p>BPEX 07 400MM PEDESTAL FAN</p>
+                <div class="buttons position-absolute">
+                    <button class="wish-list shadow" data-aos="fade-left" data-aos-once="true" title="Add to Wishlist">
+                        <i class="fas fa-heart"></i>
+                        </button>
+                        
+                        <button class="quick-view shadow" title="Quick View" ng-click="toggleBlockDescription()">
+                        <i class="fas fa-info-circle"></i>
+                        </button>
+                        
+                </div>
+            </div>
+            
+            <div class="fans product-fan position-relative m-3" >
+                <img class="pedestal-fans" src="https://fanimation.com/wp-content/uploads/2022/01/MAD6721DZ-96N-LKFresnel-1024x576.jpg" alt="Product 1">
+                <p>BPEX 07 400MM PEDESTAL FAN</p>
+                <div class="buttons position-absolute">
+                    <button class="wish-list shadow" data-aos="fade-left" data-aos-once="true" title="Add to Wishlist">
+                        <i class="fas fa-heart"></i>
+                        </button>
+                        
+                        <button class="quick-view shadow" title="Quick View" ng-click="toggleBlockDescription()">
+                        <i class="fas fa-info-circle"></i>
+                        </button>
+                        
+                </div>
+            </div>
+            
+            <div class="fans product-fan position-relative m-3" >
+                <img class="pedestal-fans" src="https://fanimation.com/wp-content/uploads/2022/01/MAD6721DZ-96N-LKFresnel-1024x576.jpg" alt="Product 1">
+                <p>BPEX 07 400MM PEDESTAL FAN</p>
+                <div class="buttons position-absolute">
+                    <button class="wish-list shadow" data-aos="fade-left" data-aos-once="true" title="Add to Wishlist">
+                        <i class="fas fa-heart"></i>
+                        </button>
+                        
+                        <button class="quick-view shadow" title="Quick View" ng-click="toggleBlockDescription()">
+                        <i class="fas fa-info-circle"></i>
+                        </button>
+                        
+                </div>
+            </div>
+            
+            <div class="fans product-fan position-relative m-3" >
+                <img class="pedestal-fans" src="https://fanimation.com/wp-content/uploads/2022/01/MAD6721DZ-96N-LKFresnel-1024x576.jpg" alt="Product 1">
+                <p>BPEX 07 400MM PEDESTAL FAN</p>
+                <div class="buttons position-absolute">
+                    <button class="wish-list shadow" data-aos="fade-left" data-aos-once="true" title="Add to Wishlist">
+                        <i class="fas fa-heart"></i>
+                        </button>
+                        
+                        <button class="quick-view shadow" title="Quick View" ng-click="toggleBlockDescription()">
+                        <i class="fas fa-info-circle"></i>
+                        </button>
+                        
+                </div>
+            </div>
+            
+            <div class="fans product-fan position-relative m-3" >
+                <img class="pedestal-fans" src="https://fanimation.com/wp-content/uploads/2022/01/MAD6721DZ-96N-LKFresnel-1024x576.jpg" alt="Product 1">
+                <p>BPEX 07 400MM PEDESTAL FAN</p>
+                <div class="buttons position-absolute">
+                    <button class="wish-list shadow" data-aos="fade-left" data-aos-once="true" title="Add to Wishlist">
+                        <i class="fas fa-heart"></i>
+                        </button>
+                        
+                        <button class="quick-view shadow" title="Quick View" ng-click="toggleBlockDescription()">
+                        <i class="fas fa-info-circle"></i>
+                        </button>
+                        
+                </div>
+            </div>
+            
+            <div class="fans product-fan position-relative m-3" >
+                <img class="pedestal-fans" src="https://fanimation.com/wp-content/uploads/2022/01/MAD6721DZ-96N-LKFresnel-1024x576.jpg" alt="Product 1">
+                <p>BPEX 07 400MM PEDESTAL FAN</p>
+                <div class="buttons position-absolute">
+                    <button class="wish-list shadow" data-aos="fade-left" data-aos-once="true" title="Add to Wishlist">
+                        <i class="fas fa-heart"></i>
+                        </button>
+                        
+                        <button class="quick-view shadow" title="Quick View" ng-click="toggleBlockDescription()">
+                        <i class="fas fa-info-circle"></i>
+                        </button>
+                        
+                </div>
+            </div>
+            
+            <div class="fans product-fan position-relative m-3" >
+                <img class="pedestal-fans" src="https://fanimation.com/wp-content/uploads/2022/01/MAD6721DZ-96N-LKFresnel-1024x576.jpg" alt="Product 1">
+                <p>BPEX 07 400MM PEDESTAL FAN</p>
+                <div class="buttons position-absolute">
+                    <button class="wish-list shadow" data-aos="fade-left" data-aos-once="true" title="Add to Wishlist">
+                        <i class="fas fa-heart"></i>
+                        </button>
+                        
+                        <button class="quick-view shadow" title="Quick View" ng-click="toggleBlockDescription()">
+                        <i class="fas fa-info-circle"></i>
+                        </button>
+                        
+                </div>
+            </div>
+            
+            <div class="fans product-fan position-relative m-3" >
+                <img class="pedestal-fans" src="https://fanimation.com/wp-content/uploads/2022/01/MAD6721DZ-96N-LKFresnel-1024x576.jpg" alt="Product 1">
+                <p>BPEX 07 400MM PEDESTAL FAN</p>
+                <div class="buttons position-absolute">
+                    <button class="wish-list shadow" data-aos="fade-left" data-aos-once="true" title="Add to Wishlist">
+                        <i class="fas fa-heart"></i>
+                        </button>
+                        
+                        <button class="quick-view shadow" title="Quick View" ng-click="toggleBlockDescription()">
+                        <i class="fas fa-info-circle"></i>
+                        </button>
+                        
+                </div>
+            </div>
+            
+            <div class="fans product-fan position-relative m-3" >
+                <img class="pedestal-fans" src="https://fanimation.com/wp-content/uploads/2022/01/MAD6721DZ-96N-LKFresnel-1024x576.jpg" alt="Product 1">
+                <p>BPEX 07 400MM PEDESTAL FAN</p>
+                <div class="buttons position-absolute">
+                    <button class="wish-list shadow" data-aos="fade-left" data-aos-once="true" title="Add to Wishlist">
+                        <i class="fas fa-heart"></i>
+                        </button>
+                        
+                        <button class="quick-view shadow" title="Quick View" ng-click="toggleBlockDescription()">
+                        <i class="fas fa-info-circle"></i>
+                        </button>
+                        
+                </div>
+            </div> -->
+            
+        </div>
+
+    </div>
+   
+</div>

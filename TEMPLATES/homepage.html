@@ -1,0 +1,317 @@
+    <div class="homepage" ng-app="app" ng-controller="homeController">
+
+        <div class="landing">
+            <!-- Owl carousel slider section -->
+                <div class="first-section">
+                <div class="owl-carousel owl-theme slider-img-div main-carousel">
+                    <div class="div object-fit-contain position-relative">  <img src="https://www.whiteteak.com/media/catalog/product/cache/4711786e6148f76a597e8e5d4560ca1d/1/4/14_7.jpg" class="item" alt=""></div>
+                    <div class="div object-fit-contain position-relative"> <img src="https://images.pexels.com/photos/1374448/pexels-photo-1374448.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" class="item" alt=""></div>
+                    <div class="div object-fit-contain position-relative">  <img src="https://images.unsplash.com/photo-1618941716939-553df3c6c278?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80" class="item" alt=""></div>
+                    <div class="div object-fit-contain position-relative"><img src="https://images.pexels.com/photos/7168071/pexels-photo-7168071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" class="item" alt=""></div>
+                    <div class="div object-fit-contain position-relative"> <img src="https://images.pexels.com/photos/14495888/pexels-photo-14495888.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" class="item" alt=""></div>
+                    <div class="div object-fit-contain position-relative">  <img src="https://hips.hearstapps.com/hmg-prod/images/ghk-index-floorfans-083-1659635302.jpg" class="item" alt=""></div>
+                    <div class="div object-fit-contain position-relative">  <img src="https://www.eurolux.co.za/img/resources/110/0.jpg" class="item" alt=""></div>
+                    
+                </div>
+            
+                <div class="first-text position-absolute text-center" data-aos="fade-in" data-aos-duration="1500" >
+                    <h1 class="text-uppercase" data-aos="fade-down" data-aos-duration="1500">Fanimation</h1>
+                    <p>Cool style, quality fans. Shop FanWorld for modern classics. Stay comfortable, transform your space. <br> Experience FanWorld now.</p>
+                    <a href="#!products" class="btn btn-light text-uppercase"> shop now</a>
+                </div>
+                </div>
+            
+        </div>
+
+        <!-- CEILING FAN SECTION -->
+        <section class="ceiling-sect" id="ceiling-fan">
+            <h2 class="text-uppercase text-center">Elevate Your Space: Discover Our Stylish Ceiling Fans</h2>
+            <div class="fans-list-wrapper">
+
+                <button class="slider-button slider-button-prev" ng-click="scrollProductList('prev', 'fans-list1')">
+                    <i class="fa-solid fa-chevron-left slider-button-icon"></i>
+                </button>
+
+                <div class="fans-list fans-list1 d-flex justify-content-start" ng-style="{'scrollLeft': productListScroll}">
+
+                    <div class="fans position-relative " ng-repeat=" product in sharedData.ceilingFans" >
+                        <img class="pedestal-fans" src={{product.product_image}} alt="Product 1">
+                        <p>{{product.product_name}}</p>
+                        <div class="buttons position-absolute">
+                            <button data-aos="fade-left" data-aos-once="true" title="Add to Wishlist"  ng-class="addWishlist ? 'wished' : 'buttons-button shadow'" ng-click="addWishlist = !addWishlist" >
+                                <i class="fas fa-heart"></i>
+                            </button>
+                                
+                            <button class="quick-view shadow buttons-button" title="Quick View" ng-click="toggleBlockDescription(product.product_id)">
+                                <i class="fas fa-info-circle"></i>
+                            </button>
+                                
+                        </div>
+                   
+                    </div>
+                
+                    <a href="#!products" class="see-more-link">See More</a>
+                </div>
+
+                <button class="slider-button slider-button-next" ng-click="scrollProductList('next', 'fans-list1')">
+                    <i class="fa-solid fa-chevron-right slider-button-icon"></i>
+                </button>
+
+            </div>
+        </section>
+
+        <!-- PEDESTAL FAN SECTION -->
+        <section class="ceiling-sect" id="pedestal-fan">
+            <h2 class="text-uppercase text-center">Stay Cool in Style: Discover Our Powerful Pedestal Fans!</h2>
+        
+            <div class="fans-list-wrapper">
+                <button class="slider-button slider-button-prev2 " ng-click="scrollProductList('prev', 'fans-list2')">
+                    <i class="fa-solid fa-chevron-left slider-button-icon"></i>
+                </button>
+        
+                <div class="fans-list fans-list2" ng-style="{'scrollLeft': productListScroll}">
+                    
+                    <div class="fans position-relative" ng-repeat=" product in sharedData.pedestalFans" >
+                        <img class="pedestal-fans" src={{product.product_image}} alt={{product.product_name}}>
+                        <p>{{product.product_name}}</p>
+                         <div class="buttons position-absolute">
+                                <button data-aos="fade-left" data-aos-once="true" title="Add to Wishlist"  ng-class="addWishlist ? 'wished' : 'buttons-button shadow'" ng-click="addWishlist = !addWishlist" >
+                                    <i class="fas fa-heart"></i>
+                                    </button>
+                                    
+                                <button class="quick-view shadow buttons-button" title="Quick View" ng-click="toggleBlockDescription(product.product_id)">
+                                    <i class="fas fa-info-circle"></i>
+                                    </button>
+                                    
+                            </div>
+                    </div>
+                
+                    <a href="#!products" class="see-more-link">See More</a>
+                </div>
+                <button class="slider-button slider-button-next2" ng-click="scrollProductList('next', 'fans-list2')">
+                    <i class="fa-solid fa-chevron-right slider-button-icon"></i>
+                </button>
+            </div>
+        </section>
+
+        <!-- Accessories section -->
+        <div id="accessories" class="assecories-section d-flex justify-content-between  px-3 position-relative">
+            <div class="accessories-img position-absolute" data-aos="zoom-in-right"  data-aos-duration="2000" >
+                <img src="../ASSETS/accessory-img.png" alt="">
+            </div>
+            <div class="ad-section lh-sm">
+                <h2 class="text-capitalize">Finding the Perfect Fan Accessories</h2>
+                <p class="pt-4">Enhance your fan setup with the perfect accessories. Choose based on location (indoor or outdoor) and style. Optimize functionality with adjustable rods, remote controls, and more. Explore special features like dimmable lights and energy-saving options. Find the perfect fan accessories today!</p>
+                <p class="media-remove">With the right fan accessories, you can transform your space into a stylish and functional haven. Explore our wide selection of fan accessories and find the perfect additions to complete your fan setup.</p>
+            </div>
+            <div class="accessories-products-div pe-5">
+                <div class="see-more text-end text-decoration-underline "><a href="#!products">see more <i class="fas fa-arrow-right"></i></a></div>
+                <div class="asseccories-carousel position-absolute d-flex justify-content-space-between">
+
+                    <div class="accessories-product position-relative">
+                        <img src={{sharedData.accessoriesFans[0].product_image}} alt="product name">
+                         <div class="buttons position-absolute">
+                                <button data-aos="fade-left" data-aos-once="true" title="Add to Wishlist"  ng-class="addWishlist ? 'wished' : 'buttons-button shadow'" ng-click="addWishlist = !addWishlist" >
+                                    <i class="fas fa-heart"></i>
+                                </button>
+                                    
+                                <button class="quick-view shadow buttons-button" title="Quick View" ng-click="toggleBlockDescription(sharedData.accessoriesFans[0].product_id)">
+                                    <i class="fas fa-info-circle"></i>
+                                </button>
+                                    
+                        </div>
+
+                        <div class="product-name text-uppercase text-center m-1">
+                            <h3>{{sharedData.accessoriesFans[0].product_name}}</h3>
+                        </div>
+                    </div>
+
+                    <div class="accessories-product position-relative">
+                        <img src={{sharedData.accessoriesFans[5].product_image}} alt="product name">
+                         <div class="buttons position-absolute">
+                                <button data-aos="fade-left" data-aos-once="true" title="Add to Wishlist"  ng-class="addWishlist ? 'wished' : 'buttons-button shadow'" ng-click="addWishlist = !addWishlist" >
+                                    <i class="fas fa-heart"></i>
+                                </button>
+                                    
+                                <button class="quick-view shadow buttons-button" title="Quick View" ng-click="toggleBlockDescription(sharedData.accessoriesFans[5].product_id)">
+                                    <i class="fas fa-info-circle"></i>
+                                </button>
+                                    
+                        </div>
+
+                        <div class="product-name text-uppercase text-center m-1">
+                            <h3>{{sharedData.accessoriesFans[5].product_name}}</h3>
+                        </div>
+                    </div>
+
+                    <div class="accessories-product position-relative mobile-product">
+                        <img src={{sharedData.accessoriesFans[10].product_image}} alt="product name">
+                         <div class="buttons position-absolute">
+                                <button data-aos="fade-left" data-aos-once="true" title="Add to Wishlist"  ng-class="addWishlist ? 'wished' : 'buttons-button shadow'" ng-click="addWishlist = !addWishlist" >
+                                    <i class="fas fa-heart"></i>
+                                </button>
+                                    
+                                <button class="quick-view shadow buttons-button" title="Quick View" ng-click="toggleBlockDescription(sharedData.accessoriesFans[10].product_id)">
+                                    <i class="fas fa-info-circle"></i>
+                                </button>
+                                    
+                            </div>
+                        <div class="product-name text-uppercase text-center m-1">
+                            <h3>{{sharedData.accessoriesFans[10].product_name}}</h3>
+                        </div>
+                    </div>
+                </div>   
+            </div>
+        </div>
+
+        <!-- WALL FAN SECTION -->
+        <section class="ceiling-sect" id="wall-fan">
+            <h2 class="text-uppercase text-center">Stay Cool and Save Space: Upgrade to Our Sleek Wall Fans Today!</h2>
+            <div class="fans-list-wrapper">
+                <button class="slider-button slider-button-prev2" ng-click="scrollProductList('prev', 'fans-list3')">
+                    <i class="fa-solid fa-chevron-left slider-button-icon"></i>
+                </button>
+                <div class="fans-list fans-list3" ng-style="{'scrollLeft': productListScroll}">
+
+                    <div class="fans position-relative " ng-repeat=" product in sharedData.wallFans" >
+                        <img class="pedestal-fans" src={{product.product_image}} alt="Product 1">
+                        <p>{{product.product_name}}</p>
+                        <div class="buttons position-absolute">
+                            <button data-aos="fade-left" data-aos-once="true" title="Add to Wishlist"  ng-class="addWishlist ? 'wished' : 'buttons-button shadow'" ng-click="addWishlist = !addWishlist" >
+                                <i class="fas fa-heart"></i>
+                            </button>
+                                
+                            <button class="quick-view shadow buttons-button" title="Quick View" ng-click="toggleBlockDescription(product.product_id)">
+                                <i class="fas fa-info-circle"></i>
+                            </button>
+                                
+                        </div>
+                   
+                    </div>
+        
+                    <!-- <div class="fans position-relative">
+                        <img class="pedestal-fans" src="https://www.lugoldstore.com/wp-content/uploads/2021/04/panasonic_fan.png" alt="Product 2">
+                        <p>Panasonic Wall Fan 409U</p>
+                         <div class="buttons position-absolute">
+                                <button data-aos="fade-left" data-aos-once="true" title="Add to Wishlist"  ng-class="addWishlist ? 'wished' : 'buttons-button shadow'" ng-click="addWishlist = !addWishlist" >
+                                    <i class="fas fa-heart"></i>
+                                    </button>
+                                    
+                                <button class="quick-view shadow buttons-button" title="Quick View" ng-click="toggleBlockDescription(product.id)">
+                                    <i class="fas fa-info-circle"></i>
+                                    </button>
+                                    
+                            </div>
+                    </div>
+                
+                    <div class="fans position-relative">
+                        <img class="pedestal-fans" src="https://m.media-amazon.com/images/I/71LYnLyw7pS._AC_SL1476_.jpg" alt="Product 3">
+                        <p>Wall Mount Oscillating Fan Retro Wall Fan</p>
+                         <div class="buttons position-absolute">
+                                <button data-aos="fade-left" data-aos-once="true" title="Add to Wishlist"  ng-class="addWishlist ? 'wished' : 'buttons-button shadow'" ng-click="addWishlist = !addWishlist" >
+                                    <i class="fas fa-heart"></i>
+                                    </button>
+                                    
+                                <button class="quick-view shadow buttons-button" title="Quick View" ng-click="toggleBlockDescription(product.id)">
+                                    <i class="fas fa-info-circle"></i>
+                                    </button>
+                                    
+                            </div>
+                    </div>
+
+                    <div class="fans position-relative">
+                        <img class="pedestal-fans" src="https://cdn11.bigcommerce.com/s-x3ki4mm/images/stencil/1280x1280/products/4281/5661/Binatone_Wall_fan_WF-1805__72979.1606226794.jpg?c=2" alt="Product 4">
+                        <p>Binatone Wall Fan WF-1805 18 inches</p>
+                         <div class="buttons position-absolute">
+                                <button data-aos="fade-left" data-aos-once="true" title="Add to Wishlist"  ng-class="addWishlist ? 'wished' : 'buttons-button shadow'" ng-click="addWishlist = !addWishlist" >
+                                    <i class="fas fa-heart"></i>
+                                    </button>
+                                    
+                                <button class="quick-view shadow buttons-button" title="Quick View" ng-click="toggleBlockDescription(product.id)">
+                                    <i class="fas fa-info-circle"></i>
+                                    </button>
+                                    
+                            </div>
+                    </div>
+
+                    <div class="fans position-relative">
+                        <img class="pedestal-fans" src="https://m.media-amazon.com/images/I/51-rWPXim7L.jpg" alt="Product 5">
+                        <p>Bajaj Esteem 400 mm Wall Fan (White)</p>
+                         <div class="buttons position-absolute">
+                                <button data-aos="fade-left" data-aos-once="true" title="Add to Wishlist"  ng-class="addWishlist ? 'wished' : 'buttons-button shadow'" ng-click="addWishlist = !addWishlist" >
+                                    <i class="fas fa-heart"></i>
+                                    </button>
+                                    
+                                <button class="quick-view shadow buttons-button" title="Quick View" ng-click="toggleBlockDescription(product.id)">
+                                    <i class="fas fa-info-circle"></i>
+                                    </button>
+                                    
+                            </div>
+                    </div> -->
+                
+                    <a href="#!products" class="see-more-link">See More</a>
+                </div>
+                <button class="slider-button slider-button-next2" ng-click="scrollProductList('next', 'fans-list3')">
+                    <i class="fa-solid fa-chevron-right slider-button-icon"></i>
+                </button>
+            </div>
+        </section>
+
+        <!-- EXHAUST FAN SECTION -->
+        <section class="ceiling-sect" id="exhaust-fan">
+            <h2 class="text-uppercase text-center">Fresh Air Made Easy: Discover the Efficiency of Our Exhaust Fans!</h2>
+            <div class="fans-list-wrapper">
+                <button class="slider-button slider-button-prev2" ng-click="scrollProductList('prev', 'fans-list4')">
+                    <i class="fa-solid fa-chevron-left slider-button-icon"></i>
+                </button>
+                <div class="fans-list fans-list4" ng-style="{'scrollLeft': productListScroll}">
+
+                    <div class="fans position-relative" ng-repeat=" product in sharedData.exhaustFans" >
+                        <img class="pedestal-fans" src={{product.product_image}} alt={{product.product_name}}>
+                        <p>{{product.product_name}}</p>
+                         <div class="buttons position-absolute">
+                                <button data-aos="fade-left" data-aos-once="true" title="Add to Wishlist"  ng-class="addWishlist ? 'wished' : 'buttons-button shadow'" ng-click="addWishlist = !addWishlist" >
+                                    <i class="fas fa-heart"></i>
+                                    </button>
+                                    
+                                <button class="quick-view shadow buttons-button" title="Quick View" ng-click="toggleBlockDescription(product.product_id)">
+                                    <i class="fas fa-info-circle"></i>
+                                    </button>
+                                    
+                            </div>
+                    </div>
+
+
+                
+                    <a href="#!products" class="see-more-link">See More</a>
+            </div>
+                <button class="slider-button slider-button-next2" ng-click="scrollProductList('next', 'fans-list4')">
+                    <i class="fa-solid fa-chevron-right slider-button-icon"></i>
+                </button>
+            </div>
+        </section>
+
+        <!-- Gallery session -->
+        <div class="gallery-section py-5 px-3 my-2 text-center">
+            <h2 class="pb-3 text-uppercase"  data-aos="fade-in" data-aos-duration="1000">Peep Our Stunning Collections: Discover FanWorld's Gallery</h2>
+            <div class="gallery-jc d-flex justify-content-between flex-lg-row">
+                <div class="galleries owl-carousel owl-theme my-gallery-carousel galleries-carousel" data-aos="fade-right" data-aos-duration="1000" >
+                    <div class="gallery-first-img p-1" style="background-image: url(https://www.picclickimg.com/IwkAAOSwA41kiV3D/New-Dual-use-USB-Charging-Mute-Desktop-Fan-Household.webp);"> </div>
+                    <div class="gallery-first-img p-1" style="background-image: url(https://images.unsplash.com/photo-1601084195907-44baaa49dabd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZmFufGVufDB8fDB8fHww&w=1000&q=80);"></div>
+                    <div class="gallery-first-img p-1" style="background-image: url(https://arclineindia.com/include/images/banner-img4-mob.jpg);"></div>
+                    <div class="gallery-first-img p-1" style="background-image: url(https://images.pexels.com/photos/4355932/pexels-photo-4355932.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);"></div>
+                    <div class="gallery-first-img p-1" style="background-image: url(https://images.pexels.com/photos/8102628/pexels-photo-8102628.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);"></div>
+                    <div class="gallery-first-img p-1" style="background-image: url(https://breezefans.com/wp-content/uploads/2023/03/Pedestal-Fan.jpg);"></div>
+                </div>
+                <div class="galleries owl-carousel owl-theme my-gallery-carousel galleries-carousel" data-aos="fade-left" data-aos-duration="1000">
+                    <div class="gallery-first-img p-1" style="background-image: url(https://i5.walmartimages.com/asr/e9135125-049c-4ad8-818b-a815845075ce.d009a33e97db6df4267f867eeab3b07a.jpeg);"> </div>
+                    <div class="gallery-first-img p-1" style="background-image: url(https://thumbs.dreamstime.com/b/modern-electric-fan-gray-cute-kitten-windowsill-indoors-fluffy-cat-enjoying-air-flow-portable-hot-summer-day-232378591.jpg);"></div>
+                    <div class="gallery-first-img p-1" style="background-image: url(https://media.istockphoto.com/id/83266380/photo/businesswoman-enjoying-fan-in-office.jpg?s=612x612&w=0&k=20&c=9rV2XgQ53IKYnuEuDgyI8ZfcOLSeU6sj1_Wi_kFNPnM=);"></div>
+                    <div class="gallery-first-img p-1" style="background-image: url(https://fanzartfans.com/wp-content/uploads/2021/05/fanzart-blog.jpeg.webp);"></div>
+                    <div class="gallery-first-img p-1" style="background-image: url(https://i5.walmartimages.com/asr/5a934942-6d37-4ba3-8716-f81848d4fbc0.41a9553da0a20e1bb2e627fb9f832481.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF);"></div>
+                    <div class="gallery-first-img p-1" style="background-image: url(https://media.istockphoto.com/id/1505561235/photo/overheated-woman-feeling-hot-suffering-from-heat-high-temperature-at-home-stay-in-front-of-a.jpg?s=612x612&w=0&k=20&c=RZYYsI6tQYYWQmjtPSRGQaaBxWOcdf5relqwNqNKpLs=);"></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
