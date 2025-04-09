@@ -1,0 +1,17 @@
+# Use an NGINX base image to serve static files
+FROM nginx:alpine
+
+# Set the working directory inside the container
+WORKDIR /usr/share/nginx/html
+
+# Copy all project files into the NGINX web root
+COPY ./TEMPLATES /usr/share/nginx/html
+COPY ./STYLES /usr/share/nginx/html/STYLES
+COPY ./ASSETS /usr/share/nginx/html/ASSETS
+COPY ./SCRIPT /usr/share/nginx/html/SCRIPT
+
+# Expose port 80 for the web server
+EXPOSE 80
+
+# Start NGINX
+CMD ["nginx", "-g", "daemon off;"]
